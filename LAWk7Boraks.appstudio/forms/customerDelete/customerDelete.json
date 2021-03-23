@@ -16,7 +16,7 @@
         "forms",
         "customerDelete",
         "Elements",
-        "txtaCustomersDelete.json"
+        "txtaCustomers2.json"
       ]
     },
     {
@@ -34,7 +34,7 @@
         "forms",
         "customerDelete",
         "Elements",
-        "lblDelete.json"
+        "lblMessage2.json"
       ]
     },
     {
@@ -43,7 +43,7 @@
         "forms",
         "customerDelete",
         "Elements",
-        "Button1.json"
+        "btnSubmit.json"
       ]
     }
   ],
